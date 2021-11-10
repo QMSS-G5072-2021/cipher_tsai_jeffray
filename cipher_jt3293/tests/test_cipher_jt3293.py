@@ -4,5 +4,5 @@ def test_singleword_cipher():
     example = 'hello'
     number = 2
     expected = 'jgnnq'
-    actual = cipher(example, number, encrypt=True)
+    actual = cipher_jt3293.cipher(example, number, encrypt=True)
     assert actual == expected 
