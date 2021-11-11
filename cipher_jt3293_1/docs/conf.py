@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"cipher_jt3293"
+project = u"cipher_jt3293_1"
 copyright = u"2021, Jeffray Tsai"
 author = u"Jeffray Tsai"
 

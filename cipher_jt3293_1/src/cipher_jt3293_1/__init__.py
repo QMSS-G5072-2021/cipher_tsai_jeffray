@@ -1,3 +1,3 @@
 # read version from installed package
 from importlib.metadata import version
-__version__ = version("cipher_jt3293")
+__version__ = version("cipher_jt3293_1")
